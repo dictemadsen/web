@@ -13,7 +13,7 @@ Videreudvikle dine data librarian kompetencer med disse tekniske værktøjer, de
 -[getting started with OpenRefine](http://miriamposner.com/classes/dh101f17/tutorials-guides/data-manipulation/get-started-with-openrefine/)
 
 ### scraping
--[introduktion til Google Web Scraper](http://webscraper.io/)
+-[getting started with webscraper.io](https://webscraper.io/tutorials)
 
 ### visualisering
 -[Diverse tutorials fra Duke University](https://guides.library.duke.edu/c.php?g=289678&p=1930715)

@@ -1,4 +1,4 @@
-![Image] (![Image] (https://github.com/datalibrarians/hjemmeside/blob/hazelsrettelser/pictures/bib.jpeg)
+![Image] (https://github.com/datalibrarians/hjemmeside/blob/hazelsrettelser/pictures/bib.jpeg)
 
 # Data Science Faggruppen, Bibliotekarforbundets faggruppe for Data Librarianship.
 

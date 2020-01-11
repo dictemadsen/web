@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 # Inspirations kasse
 Inspiration og tips til, hvordan du kan arbejde med data science i din daglig dag. Her er også en del vejledninger og tutorials som kan være nyttige samt information om workshops og kurser.
 

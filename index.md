@@ -1,3 +1,5 @@
+![Image] (https://github.com/datalibrarians/hjemmeside/blob/hazelsrettelser/pictures/bib.jpeg)
+
 {% include navigation.html %}
 
 # Data Science Faggruppen, Bibliotekarforbundets faggruppe for Data Librarianship.

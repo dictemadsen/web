@@ -2,7 +2,7 @@
 
 Data Science faggruppen har til formål at udvikle og understøtte bibliotekarers kompetencer inden for området Data Librarianship. Faggruppen vil skabe og vedligeholde et netværk blandt bibliotekarer og andre med interesse for Data Librarianship og Open Science, primært via afholdelse af workshops, undervisning samt understøttelse af Learning Communities, såsom læsegrupper og videndeling om specifikke værktøjer og metoder. 
 
-Faggruppen ønsker endvidere at indgå i dialog og diskussion med andre aktører og få Data Librarianship på dagsorden. Mere information om faggruppen og betingelserne for medlemskab i vores [vedtægter](http://bf.dk/ArrangementerOgNetvaerk/FaggrupperSC/~/media/Bibliotekarforbundet/Dit%20fag/Faggrupperne/Data_Science_Faggruppe_vedtaegter.pdf)
+Faggruppen ønsker endvidere at indgå i dialog og diskussion med andre aktører og få Data Librarianship på dagsorden. Mere information om faggruppen og betingelserne for medlemskab i vores [vedtægter](https://bf.dk/media/21375/data_science_faggruppe_vedtaegter.pdf)
 
 # Hvem kan være medlem?
 Alle aktiv medlemmer af BF kan optages i faggruppen samt studerende og pensionistmedlemmer af BF.  

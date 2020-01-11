@@ -1,3 +1,5 @@
+![Image] (https://github.com/datalibrarians/hjemmeside/blob/hazelsrettelser/pictures/bib.jpeg)
+
 {% include navigation.html %}
 
 # Data Science Faggruppen, Bibliotekarforbundets faggruppe for Data Librarianship.
@@ -32,4 +34,5 @@ Det handler om at hjælpe hinanden med at oprette, rette, slette, konvertere, op
 
 # Kontakt information 
 Kontakt gerne formand <a href="mailto:jeek@dtu.dk">Jeannette Ekstrøm</a> eller andre fra bestyrelsen, hvis yderligere information eller opklaring ønskes inden eventuel indmeldelse. 
+
 

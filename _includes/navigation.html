@@ -1,7 +1,11 @@
 <nav>
-  <nav>
-    <a href="/web/index">Home</a>
-    <a href="/web/about">About</a>
-    <a href="/web/inspiration">Inspiration</a>
-  </nav>
+  <a href="/web/index" {% if page.url == "/web/index" %}style="color: red;"{% endif %}>
+    Home
+  </a>
+  <a href="/web/about" {% if page.url == "/web/about" %}style="color: red;"{% endif %}>
+    About
+  </a>
+  <a href="/web/inspiration" {% if page.url == "/web/inspiration" %}style="color: red;"{% endif %}>
+    About
+  </a>
 </nav>

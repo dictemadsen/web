@@ -1,4 +1,4 @@
-![Image] (https://github.com/datalibrarians/hjemmeside/blob/hazelsrettelser/pictures/bib.jpeg)
+![Image](https://github.com/datalibrarians/web/blob/master/pictures/bib.jpeg)
 
 {% include navigation.html %}
 

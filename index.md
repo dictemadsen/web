@@ -1,4 +1,4 @@
-![Image](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.dst4l.info%2F&psig=AOvVaw2Hghyh6eJHlPerwsYroPhO&ust=1578841440980000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICI1ezo--YCFQAAAAAdAAAAABAD)
+![Image]
 
 # Data Science Faggruppen, Bibliotekarforbundets faggruppe for Data Librarianship.
 

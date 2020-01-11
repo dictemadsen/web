@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Data Science Faggruppen, Bibliotekarforbundets faggruppe for Data Librarianship.
 
-You can use the [editor on GitHub](https://github.com/datalibrarians/hjemmeside/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Data Science faggruppen har til formål at udvikle og understøtte bibliotekarers kompetencer inden for området Data Librarianship. Faggruppen vil skabe og vedligeholde et netværk blandt bibliotekarer og andre med interesse for Data Librarianship og Open Science, primært via afholdelse af workshops, undervisning samt understøttelse af Learning Communities, såsom læsegrupper og videndeling om specifikke værktøjer og metoder. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Faggruppen ønsker endvidere at indgå i dialog og diskussion med andre aktører og få Data Librarianship på dagsorden. Mere information om faggruppen og betingelserne for medlemskab i vores [vedtægter](http://bf.dk/ArrangementerOgNetvaerk/FaggrupperSC/~/media/Bibliotekarforbundet/Dit%20fag/Faggrupperne/Data_Science_Faggruppe_vedtaegter.pdf)
 
-### Markdown
+# Hvem kan være medlem?
+Alle aktiv medlemmer af BF kan optages i faggruppen samt studerende og pensionistmedlemmer af BF.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Som interessemedlemmer af Data Science Faggruppen kan optages:
+- passive medlemmer af BF.
+- personer, der ikke er medlemsberettigede i BF, men er medlem af anden faglig organisation og som er
+ansat som VIP eller TAP ved et dansk universitet og arbejder inden for faggruppens område, som beskrevet
+i §2 i vedtægterne.
+- personer, der ikke er medlemsberettigede i BF, men er medlem af anden faglig organisation og som er
+ansat i en dansk organisation og arbejder inden for faggruppens område, som beskrevet i §2.
+- internationale studerende ved Institutet for Informationsstudier.
+- gæsteansatte VIP og TAP ved et dansk universitet
 
-```markdown
-Syntax highlighted code block
+# Hvordan bliver man medlem?
+Tilmelding til faggruppen kan ske via <a href="mailto:medlemsafd@bf.dk">BFs medlemsafdeling</a>. 
+Prisen er 240,- kr. årligt for at være medlem. Studerende tilbydes gratis medlemsskab.
 
-# Header 1
-## Header 2
-### Header 3
+# Jeg er ikke medlem af BF - må jeg deltage i faggruppens aktiviteter?
+Ja. Du må gerne deltage gratis i Meet-ups, men andre events og workshops vil udløse en deltagergebyr.
 
-- Bulleted
-- List
+# Hvad er en Meet-up?
+Meetups handler om at mødes og hygge og hjælpe hinanden videre med et stykke software eller projektide. Meet-ups kan være iværksatte af faggruppensbestyrelse eller medlemmer.
+Det handler om at hjælpe hinanden med at oprette, rette, slette, konvertere, opdatere, installere, pluginne, scrape og alt muligt andet. Alt i alt drejer det sig med andre ord om kaffe og gratis hjælp og inspiration til alt, der kan have med data science for librarians at gøre. 
 
-1. Numbered
-2. List
+# Kontakt information 
+Kontakt gerne formand <a href="mailto:jeek@dtu.dk">Jeannette Ekstrøm</a> eller andre fra bestyrelsen, hvis yderligere information eller opklaring ønskes inden eventuel indmeldelse. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/datalibrarians/hjemmeside/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
